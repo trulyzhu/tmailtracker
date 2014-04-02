@@ -1,4 +1,4 @@
 tmailtracker
 ============
 
-A information collector of Tmail
+A information collector of Tmall
